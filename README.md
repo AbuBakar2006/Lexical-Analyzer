@@ -39,13 +39,13 @@ The program reads from an input file and generates the following outputs in the 
 Run the following command in your terminal to build the project:
 
 ```bash
-g++ main.cpp -o lexer
+g++ main.cpp -o lexical analyzer
 ```
 
 ### 2. Run
 Execute the compiled program
 ```bash
-./lexer
+lexical analyzer.cpp
 ```
 
 ### 3. Input
